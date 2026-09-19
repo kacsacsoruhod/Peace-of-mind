@@ -1,0 +1,23 @@
+.contourprin {width: 570px;height: 740px;background-color:#fff;display:flex;flex-direction:column;align-items:flex-start;border:1px solid #ddd}
+.contourphbio {margin-top:-14px;width: 564px;height:182px;background-color:#fff;display:flex;margin-left:2px;margin-right:2px}
+.contourphprof {width: 180px;height:148px;background-color:#fff;display:flex;margin-left:40px}
+.photprof {width:130px;height:130px;padding-top:4px;margin-left:10px;}
+.photoprof {width:170px;height:170px;border-radius:50%;object-fit:cover;}
+.contourbio1 {width: 305px;height:180px;background-color:#fff;display:flex;flex-direction:column;margin-left:10px}
+.contourbio2 {width: 305px;height:180px;background-color:#fff;display:flex;flex-direction:column;}
+.txtpseudobrb {font-size:13px;color:#000;text-transform: uppercase;font-family: nunito;font-weight:700}
+.txtnombrb {font-size:10px;color:#ddd;text-transform: uppercase;font-family: nunito;font-weight:200}
+.contourpost1 {width: 250px;height:20px;background-color:#fff;display:grid;grid-template-columns:repeat(4, 40px);gap:45px;justify-content:center;text-transform: uppercase;font-family: nunito;font-weight:700;font-size:10px;;margin-left:35px;color:#000;}
+.txtbio1 {font-size:10px;color:#000;font-family: nunito;font-weight:200}
+.txtbio2 {font-weight:700;color:#4D87A1}
+.contourfollow {width: 300px;height:30px;background-color:#fff;display:flex;margin-left:5px;}
+.followerburbn {width:25px;height:25px;border-radius:50%;object-fit:cover;border:2px solid #fff;}
+.contourboutonbrn1 {margin-top:-30px;width: 550px;height:45px;background-color:#fff;display:flex;margin-left:10px;justify-content:center;}
+.contourboutonbrn2 {width:230px;height:35px;border-radius:10px;background-color:#ddd;display:flex;justify-content:center;align-items:center;}
+.boutonburbn {font-size:13px;color:#000;text-transform: uppercase;font-family: nunito;font-weight:300}
+.contourstory1 {margin-top:10px;width:550px;height:110px;background-color:#fff;margin-left:10px;display:grid;grid-template-columns:80px 80px 80px;gap:25px;justify-content:center;font-family:Arial,sans-serif;font-size:11px;color:#000;font-weight:600;}
+.contourstory2 {width:80px;text-align:center;}
+.phtostory {width:60px;height:60px;border-radius:50%;object-fit:cover;border:3px solid #fff;box-shadow:0 0 0 2px #CFCFCF;}
+.titrestorybrb {display:block;text-align:center;}
+.contourpostsbrb {width:565px;height:370px;background-color:#fff;margin-left:1px;margin-top:-25px;display:grid;grid-template-columns:repeat(4, 130px);gap:8px;justify-content:center;}
+.postsbrb {width:130px;height:170px;object-fit:cover;}
